@@ -1,3 +1,9 @@
 [submodule "code/mpfw_code"]
 	path = code/mpfw_code
 	url = https://github.com/MuraDaco/mpfw_code.git
+[submodule "docs/mpfw_wiki"]
+	path = docs/mpfw_wiki
+	url = file:///Volumes/mypass2/ObsiDataRemote/Year_2023/repo__prjs_github/mpfw_wiki.git
+[submodule "docs/mpfw.wiki"]
+	path = docs/mpfw.wiki
+	url = https://github.com/MuraDaco/mpfw.wiki.git

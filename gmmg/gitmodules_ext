@@ -1,0 +1,25 @@
+[submodule "code/mpfw_code"]
+	onstorage = github_muradaco
+	onmachine = ongithub
+	onrouter = 
+	repogroup = projects
+	parent = smdl/mpfw
+	originurl = 
+	storage = smb_mypass2
+[submodule "docs/mpfw_wiki"]
+	onstorage = smb_mypass2
+	onmachine = onglinetsmbmac
+	onrouter = 
+	repogroup = projects
+	parent = prjs/mpfw
+	originurl = https://github.com/MuraDaco/mpfw.wiki.git
+	storage = smb_mypass2
+[submodule "docs/mpfw.wiki"]
+	onstorage = github_muradaco
+	onmachine = ongithub
+	onrouter = 
+	repogroup = projects
+	parent = prjs/mpfw
+	originurl = https://github.com/MuraDaco/mpfw.wiki.git
+	storage = smb_mypass2
+	storage = github_muradaco
